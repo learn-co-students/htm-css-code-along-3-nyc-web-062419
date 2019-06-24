@@ -63,8 +63,7 @@ text-align: right;
     text-decoration: underline;
 }
 
-#details a:active{
-    color: red;
+#details a:active{color: red;
     text-decoration: none;
 
 }
